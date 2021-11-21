@@ -1,10 +1,11 @@
 # dht
-NodeMCU V2 with DHT22 temp/humidity sensor
+NodeMCU V2 with DHT22 temp/humidity sensor<br>
+Log values of temperature and humidity each 5 seconds in an InfluxDB database
 
 # LIB
-1/ DHT Sensor Lib from Adafruit
+1/ DHT Sensor Lib from Adafruit<br>
    https://github.com/adafruit/DHT-sensor-library
-2/ InfluxDB Client for Arduino    
+2/ InfluxDB Client for Arduino<br>
    https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino
 
 ## Shopping list:
